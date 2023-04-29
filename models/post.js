@@ -42,5 +42,3 @@ Post.init(
 );
 
 module.exports = Post;
-
-// description, date created, user id, name
