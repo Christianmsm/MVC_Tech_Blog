@@ -13,13 +13,14 @@
  - [License](#License)
   
 ## Description
+This application is blog covering all things tech related. Users can create posts or comment on other peoples posts. This application is a way to bring the community together surrounding all things tech.
 More information to come in the future.
 
 ## Usage
 Download the code from the GitHub repository, then run 'node server' to start the application.
 
 ## Technologies
-Node.js, MYSQL, JavaScript, sequallize, Insomnia
+Node.js, MYSQL, JavaScript, Sequelize, Insomnia, Handlebars
 
 ## Installation
 Install Node.js & run 'npm  install' for all of the packages needed.
